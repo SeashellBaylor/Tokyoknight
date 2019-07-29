@@ -1,3 +1,3 @@
-# Welcome to Tokyoknight's blog
+# Welcome to Tokyoknight's blog!
 
-[]()
+# [Welcome!](https://seashellbaylor.github.io/Welcom/)
